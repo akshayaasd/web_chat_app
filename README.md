@@ -9,7 +9,7 @@ A real-time, multi-room chat application built with **FastAPI** (Python) and **R
 - Modern, responsive UI.
 
 ## Demo
-![Application Demo](./demo.mov)
+![Application Demo](demo.mov)
 
 ## Tech Stack
 - **Frontend**: React, Vite, CSS.
