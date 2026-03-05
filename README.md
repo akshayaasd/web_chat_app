@@ -9,7 +9,10 @@ A real-time, multi-room chat application built with **FastAPI** (Python) and **R
 - Modern, responsive UI.
 
 ## Demo
-![Application Demo](demo.mov)
+
+Watch the demo video here:
+
+[▶ View Demo](https://github.com/akshayaasd/web_chat_app/blob/main/demo.mov)
 
 ## Tech Stack
 - **Frontend**: React, Vite, CSS.
