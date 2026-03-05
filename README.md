@@ -8,6 +8,9 @@ A real-time, multi-room chat application built with **FastAPI** (Python) and **R
 - Persistent message storage with MongoDB.
 - Modern, responsive UI.
 
+## Demo
+![Application Demo](./assets/demo.mov)
+
 ## Tech Stack
 - **Frontend**: React, Vite, CSS.
 - **Backend**: FastAPI, Motor (Async MongoDB), WebSockets.
